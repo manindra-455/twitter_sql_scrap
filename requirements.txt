@@ -1,0 +1,4 @@
+selenium==4.7.2
+pandas==2.1.1
+webdriver-manager==3.8.5
+mysql-connector-python==8.0.33
